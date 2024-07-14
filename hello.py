@@ -15,11 +15,3 @@ g = f()
 print(g.__closure__)
 print(g(1))
 print(g(2))
-
-
-
-print("hello")
-print("hello")
-print("hello")
-print("hello")
-print("hello")
